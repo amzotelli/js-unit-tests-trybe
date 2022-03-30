@@ -14,7 +14,7 @@
 ## Habilidades
 
 - Nesse projeto eu escrevi testes unitários para funções, utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
-- A partir de testes já implementados, escrevi funções de forma que elas atendessem aos testes propostos;
+- A partir de testes já implementados pela Trybe, escrevi funções de forma que elas atendessem aos testes propostos;
 - Escrevi testes e funções utilizando a abordagem de desenvolvimento orientado a testes (TDD).
 
 <br>
@@ -53,10 +53,10 @@ Eu implementei várias funções para atender aos requisitos propostos e/ou test
   - Implementa a função average
   - Implementa os casos de teste para a função numbers
   - Implemente a função vqv
-  - Implementa os casos de teste para a função circle
+  - Implementa os casos de teste para a função Circle já implementada pela Trybe 
   - Implementa a função createStudent
   - Implemente os casos de teste para a função productDetails
   - Implemente a função objCalculator
   - Implemente a função myCounter
-  - Implemente os casos de teste para a função getCharacter
+  - Implemente os casos de teste para a função getCharacter já implementada pela Trybe 
   - Implemente os casos de teste e a função createMenu
