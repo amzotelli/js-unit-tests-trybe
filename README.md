@@ -7,9 +7,6 @@
 
 <br>
 
----
-
-<br>
 
 ## Habilidades
 
@@ -19,9 +16,6 @@
 
 <br>
 
----
-
-<br>
 
 ## O que foi desenvolvido
 
@@ -29,11 +23,7 @@ Eu implementei várias funções para atender aos requisitos propostos e/ou test
 
 <br>
 
----
-
-<br>
-
-### Para rodar localmente:
+## Para rodar localmente:
 
 1. Clone o repositório
   * `git clone git@github.com:amzotelli/js-unit-tests-trybe.git`.
@@ -45,11 +35,8 @@ Eu implementei várias funções para atender aos requisitos propostos e/ou test
 
 <br>
 
----
 
-<br>
-
-### Requisitos do projeto
+## Requisitos do projeto
   - Implementa a função average
   - Implementa os casos de teste para a função numbers
   - Implemente a função vqv
