@@ -10,7 +10,7 @@
 
 ## Habilidades
 
-- Nesse projeto eu escrevi testes unitários para funções, utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
+- Nesse projeto eu escrevi testes unitários para funções já implementadas pela Trybe, utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
 - A partir de testes já implementados pela Trybe, escrevi funções de forma que elas atendessem aos testes propostos;
 - Escrevi testes e funções utilizando a abordagem de desenvolvimento orientado a testes (TDD).
 
