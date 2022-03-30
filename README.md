@@ -38,12 +38,12 @@ Eu implementei várias funções para atender aos requisitos propostos e/ou test
 
 ## Requisitos do projeto
   - Implementa a função average
-  - Implementa os casos de teste para a função numbers
+  - Implementa os casos de teste para a função Numbers já implementada pela Trybe 
   - Implemente a função vqv
   - Implementa os casos de teste para a função Circle já implementada pela Trybe 
   - Implementa a função createStudent
-  - Implemente os casos de teste para a função productDetails
+  - Implemente os casos de teste para a função productDetails já implementada pela Trybe 
   - Implemente a função objCalculator
   - Implemente a função myCounter
   - Implemente os casos de teste para a função getCharacter já implementada pela Trybe 
-  - Implemente os casos de teste e a função createMenu
+
